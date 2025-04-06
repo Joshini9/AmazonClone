@@ -19,11 +19,9 @@
 
 .logo {
   background-image: url("images/amazon_logo.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 60px;
-  width: 120px;
-  border: 2px dashed red; /* Temporary border to see the div */
+  background-size: cover;
+  width: 100px;
+  height: 50px;
 }
 
 .border {
